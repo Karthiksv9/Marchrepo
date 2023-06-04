@@ -17,6 +17,6 @@ public class Studentu {
 		System.out.println("Statement 1	:" + abc.k);
 		System.out.println("Statement 2	:" + abc.kk);
 		System.out.println("End of the statement");
-		System.out.println(" this is a git change test");
+		System.out.println(" this is a git change test1");
 	}
 }
