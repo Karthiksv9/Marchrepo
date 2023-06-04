@@ -20,5 +20,7 @@ public class Studentu {
 		System.out.println(" this is a git change test1");
 		System.out.println(" this is a git change test12");
 		System.out.println(" this is a git change test123");
+		System.out.println(" this is a git change test12");
+		System.out.println(" this is a git change test123");
 	}
 }
