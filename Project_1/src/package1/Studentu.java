@@ -12,7 +12,7 @@ public class Studentu {
 		Studentu abc=new Studentu();
 		abc.display1();
 		abc.display2();
-		abc.k = 345;
+		abc.k = 355;
 		abc.kk =369;
 		System.out.println("Statement 1	:" + abc.k);
 		System.out.println("Statement 2	:" + abc.kk);
